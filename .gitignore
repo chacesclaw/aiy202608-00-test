@@ -1,0 +1,13 @@
+.env
+.env.*
+*.key
+*.pem
+secrets.*
+config.local.*
+credentials.*
+node_modules/
+dist/
+build/
+__pycache__/
+*.pyc
+.DS_Store
